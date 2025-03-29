@@ -1,5 +1,5 @@
 import React from 'react'
-import saumya from '../assets/saumya.jpg'
+import saumya from '../assets/saumya.jpg';
 import { Link } from 'react-router-dom';
 
 const Hero = () => {
